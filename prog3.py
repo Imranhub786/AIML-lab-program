@@ -33,3 +33,4 @@ with open("trainingexamples.csv") as f:
                 break
     print("\nFinal Specific hypothesis:\n", specific)
     print("\nFinal General hypothesis:\n", gh)
+#Refer trainingexamples.csv dataSet from this repository for this program
